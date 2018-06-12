@@ -1,3 +1,4 @@
+陈一刀翻译中
 My Lisp Experiences and the Development of GNU Emacs
 ======
 
